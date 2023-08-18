@@ -1,0 +1,13 @@
+D:\repos\CrashGame\CrashGame\bin\Release\CrashGame.exe.config
+D:\repos\CrashGame\CrashGame\bin\Release\CrashGame.exe
+D:\repos\CrashGame\CrashGame\bin\Release\CrashGame.pdb
+D:\repos\CrashGame\CrashGame\bin\Release\Guna.UI2.dll
+D:\repos\CrashGame\CrashGame\obj\Release\CrashGame.csproj.AssemblyReference.cache
+D:\repos\CrashGame\CrashGame\obj\Release\CrashGame.csproj.SuggestedBindingRedirects.cache
+D:\repos\CrashGame\CrashGame\obj\Release\CrashGame.CrashGame.resources
+D:\repos\CrashGame\CrashGame\obj\Release\CrashGame.Properties.Resources.resources
+D:\repos\CrashGame\CrashGame\obj\Release\CrashGame.csproj.GenerateResource.cache
+D:\repos\CrashGame\CrashGame\obj\Release\CrashGame.csproj.CoreCompileInputs.cache
+D:\repos\CrashGame\CrashGame\obj\Release\CrashGame.csproj.CopyComplete
+D:\repos\CrashGame\CrashGame\obj\Release\CrashGame.exe
+D:\repos\CrashGame\CrashGame\obj\Release\CrashGame.pdb
